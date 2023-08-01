@@ -51,6 +51,24 @@
     </ul>    
 </div>
 <hr>
+<ul>
+        <li>Task 1-8</li>
+        <ul><a href="task1-8/task1.php"><li>Task 1</li></a></ul>
+        <ul><a href="task1-8/task2.php"><li>Task 2</li></a></ul>
+        <ul><a href="task1-8/task3.php"><li>Task 3</li></a></ul>
+        <ul><a href="task1-8/task4.php"><li>Task 4</li></a></ul>
+        <ul><a href="task1-8/task5.php"><li>Task 5</li></a></ul>
+        <ul><a href="task1-8/task6.php"><li>Task 6</li></a></ul>
+        <ul><a href="task1-8/task7.php"><li>Task 7</li></a></ul>
+        <ul><a href="task1-8/task8.php"><li>Task 8</li></a></ul>
+        <ul><a href="task1-8/task9.php"><li>Task 9</li></a></ul>
+        <ul><a href="task1-8/task10.php"><li>Task10</li></a></ul>
+        <ul><a href="task1-8/task11.php"><li>Task11</li></a></ul>
+        <ul><a href="task1-8/task12.php"><li>Task12</li></a></ul>
+        <ul><a href="task1-8/task13.php"><li>Task13</li></a></ul>
+        <ul><a href="task1-8/task14.php"><li>Task14</li></a></ul>
 
+
+    </ul>    
 </body>
 </html>
