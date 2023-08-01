@@ -4,15 +4,52 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>phpTask</title>
-</head>
-<body>
-    
+    <style>
+  #oll{
+background-color: black;
+  }
 
-<div>
+.title{
+text-align: center;
+color: blueviolet;
+font-size: 2rem;
+}
+
+.task1{
+    color: blueviolet;
+    font-size: 1.5rem;
+    display: flex;
+}
+
+.task2{
+    color: blueviolet;
+    font-size: 1.5rem;
+    display: flex;
+}
+
+.task3{
+    color: blueviolet;
+    font-size: 1.5rem;
+    display: flex;
+}
+
+.ul, a{
+    font-size: 24px;
+    color: thistle;
+    transition: color 0.3s;
+}
+.ul,a:hover {
+    color: darkorchid;
+}
+    </style>
+</head>
+<body id="oll">
+    
+<div class="title">
     <h1>phpTask</h1>
 </div>
 <hr>
-<div>
+<div class="task1">
     <ul>
         <li>Task 30/7</li>
         <ul><a href="task30-7/task1.php"><li>Task 1</li></a></ul>
@@ -26,7 +63,7 @@
     </ul>    
 </div>
 <hr>
-<div>
+<div class="task2">
     <ul>
         <li>Task 31/7</li>
         <ul><a href="task31-7/task1.php"><li>Task 1</li></a></ul>
@@ -51,6 +88,7 @@
     </ul>    
 </div>
 <hr>
+<div class="task3">
 <ul>
         <li>Task 1-8</li>
         <ul><a href="task1-8/task1.php"><li>Task 1</li></a></ul>
@@ -62,13 +100,14 @@
         <ul><a href="task1-8/task7.php"><li>Task 7</li></a></ul>
         <ul><a href="task1-8/task8.php"><li>Task 8</li></a></ul>
         <ul><a href="task1-8/task9.php"><li>Task 9</li></a></ul>
-        <ul><a href="task1-8/task10.php"><li>Task10</li></a></ul>
-        <ul><a href="task1-8/task11.php"><li>Task11</li></a></ul>
-        <ul><a href="task1-8/task12.php"><li>Task12</li></a></ul>
-        <ul><a href="task1-8/task13.php"><li>Task13</li></a></ul>
-        <ul><a href="task1-8/task14.php"><li>Task14</li></a></ul>
-
-
+        <ul><a href="task1-8/task10.php"><li>Task 10</li></a></ul>
+        <ul><a href="task1-8/task11.php"><li>Task 11</li></a></ul>
+        <ul><a href="task1-8/task12.php"><li>Task 12</li></a></ul>
+        <ul><a href="task1-8/task13.php"><li>Task 13</li></a></ul>
+        <ul><a href="task1-8/task14.php"><li>Task 14</li></a></ul>
     </ul>    
+</div>
+<hr>
+
 </body>
 </html>
