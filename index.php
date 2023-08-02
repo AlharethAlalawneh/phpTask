@@ -33,6 +33,18 @@ font-size: 2rem;
     display: flex;
 }
 
+.task4{
+    color: blueviolet;
+    font-size: 1.5rem;
+    display: flex;
+}
+
+.task5{
+    color: blueviolet;
+    font-size: 1.5rem;
+    display: flex;
+}
+
 .ul, a{
     font-size: 24px;
     color: thistle;
@@ -109,5 +121,42 @@ font-size: 2rem;
 </div>
 <hr>
 
+<div class="task4">
+<ul>
+        <li>Task 2-8 Loops </li>
+        <ul><a href="task2-8/task1.php"><li>Task 1</li></a></ul>
+        <ul><a href="task2-8/task2.php"><li>Task 2</li></a></ul>
+        <ul><a href="task2-8/task3.php"><li>Task 3</li></a></ul>
+        <ul><a href="task2-8/task4.php"><li>Task 4</li></a></ul>
+        <ul><a href="task2-8/task5.php"><li>Task 5</li></a></ul>
+        <ul><a href="task2-8/task6.php"><li>Task 6</li></a></ul>
+        <ul><a href="task2-8/task7.php"><li>Task 7</li></a></ul>
+        <ul><a href="task2-8/task8.php"><li>Task 8</li></a></ul>
+        <ul><a href="task2-8/task9.php"><li>Task 9</li></a></ul>
+        <ul><a href="task2-8/task10.php"><li>Task 10</li></a></ul>
+        <ul><a href="task2-8/task11.php"><li>Task 11</li></a></ul>
+        <ul><a href="task2-8/task12.php"><li>Task 12</li></a></ul>
+    </ul>    
+</div>
+<hr>
+
+<div class="task5">
+<ul>
+        <li>Task2-2-8 Logical Statements and Operators </li>
+        <ul><a href="task2-2-8/task1.php"><li>Task 1</li></a></ul>
+        <ul><a href="task2-2-8/task2.php"><li>Task 2</li></a></ul>
+        <ul><a href="task2-2-8/task3.php"><li>Task 3</li></a></ul>
+        <ul><a href="task2-2-8/task4.php"><li>Task 4</li></a></ul>
+        <ul><a href="task2-2-8/task5.php"><li>Task 5</li></a></ul>
+        <ul><a href="task2-2-8/task6.php"><li>Task 6</li></a></ul>
+        <ul><a href="task2-2-8/task7.php"><li>Task 7</li></a></ul>
+        <ul><a href="task2-2-8/task8.php"><li>Task 8</li></a></ul>
+        <ul><a href="task2-2-8/task9.php"><li>Task 9</li></a></ul>
+        <ul><a href="task2-2-8/task10.php"><li>Task 10</li></a></ul>
+        <ul><a href="task2-2-8/task11.php"><li>Task 11</li></a></ul>
+        <ul><a href="task2-2-8/task12.php"><li>Task 12</li></a></ul>
+    </ul>    
+</div>
+<hr>
 </body>
 </html>
