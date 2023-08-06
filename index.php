@@ -45,6 +45,12 @@ font-size: 2rem;
     display: flex;
 }
 
+.task6{
+    color: blueviolet;
+    font-size: 1.5rem;
+    display: flex;
+}
+
 .ul, a{
     font-size: 24px;
     color: thistle;
@@ -158,5 +164,21 @@ font-size: 2rem;
     </ul>    
 </div>
 <hr>
+
+<div class="task6">
+<ul>
+        <li>Task 6-8 Functions </li>
+        <ul><a href="task6-8/task1.php"><li>Task 1</li></a></ul>
+        <ul><a href="task6-8/task2.php"><li>Task 2</li></a></ul>
+        <ul><a href="task6-8/task3.php"><li>Task 3</li></a></ul>
+        <ul><a href="task6-8/task4.php"><li>Task 4</li></a></ul>
+        <ul><a href="task6-8/task5.php"><li>Task 5</li></a></ul>
+        <ul><a href="task6-8/task6.php"><li>Task 6</li></a></ul>
+        <ul><a href="task6-8/task7.php"><li>Task 7</li></a></ul>
+        <ul><a href="task6-8/task8.php"><li>Task 8</li></a></ul>
+    </ul>    
+</div>
+<hr>
+
 </body>
 </html>
