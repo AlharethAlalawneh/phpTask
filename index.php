@@ -51,6 +51,18 @@ font-size: 2rem;
     display: flex;
 }
 
+.task7{
+    color: blueviolet;
+    font-size: 1.5rem;
+    display: flex;
+}
+
+.task8{
+    color: blueviolet;
+    font-size: 1.5rem;
+    display: flex;
+}
+
 .ul, a{
     font-size: 24px;
     color: thistle;
@@ -83,7 +95,7 @@ font-size: 2rem;
 <hr>
 <div class="task2">
     <ul>
-        <li>Task 31/7</li>
+        <li>Task 31/7 String and String Functions </li>
         <ul><a href="task31-7/task1.php"><li>Task 1</li></a></ul>
         <ul><a href="task31-7/task2.php"><li>Task 2</li></a></ul>
         <ul><a href="task31-7/task3.php"><li>Task 3</li></a></ul>
@@ -108,7 +120,7 @@ font-size: 2rem;
 <hr>
 <div class="task3">
 <ul>
-        <li>Task 1-8</li>
+        <li>Task 1-8 Array </li>
         <ul><a href="task1-8/task1.php"><li>Task 1</li></a></ul>
         <ul><a href="task1-8/task2.php"><li>Task 2</li></a></ul>
         <ul><a href="task1-8/task3.php"><li>Task 3</li></a></ul>
@@ -176,6 +188,36 @@ font-size: 2rem;
         <ul><a href="task6-8/task6.php"><li>Task 6</li></a></ul>
         <ul><a href="task6-8/task7.php"><li>Task 7</li></a></ul>
         <ul><a href="task6-8/task8.php"><li>Task 8</li></a></ul>
+    </ul>    
+</div>
+<hr>
+
+<div class="task7">
+<ul>
+        <li>Task 7-8 PHP Super Global Variables	 </li>
+        <ul><a href="task7-8/task1.php"><li>Task 1</li></a></ul>
+        <ul><a href="task7-8/task2.php"><li>Task 2</li></a></ul>
+        <ul><a href="task7-8/task3.php"><li>Task 3</li></a></ul>
+        <ul><a href="task7-8/task4.php"><li>Task 4</li></a></ul>
+        <ul><a href="task7-8/task5.php"><li>Task 5</li></a></ul>
+        <ul><a href="task7-8/task6.php"><li>Task 6</li></a></ul>
+        <ul><a href="task7-8/task7.php"><li>Task 7</li></a></ul>
+        <ul><a href="task7-8/task8.php"><li>Task 8</li></a></ul>
+        <ul><a href="task7-8/task9.php"><li>Task 9</li></a></ul>
+
+    </ul>    
+</div>
+<hr>
+
+<div class="task8">
+<ul>
+        <li>Task2-7-8 Classes </li>
+        <ul><a href="task2-7-8/task1.php"><li>Task 1</li></a></ul>
+        <ul><a href="task2-7-8/task2.php"><li>Task 2</li></a></ul>
+        <ul><a href="task2-7-8/task3.php"><li>Task 3</li></a></ul>
+        <ul><a href="task2-7-8/task4.php"><li>Task 4</li></a></ul>
+        <ul><a href="task2-7-8/task5.php"><li>Task 5</li></a></ul>
+        <ul><a href="task2-7-8/task6.php"><li>Task 6</li></a></ul>
     </ul>    
 </div>
 <hr>
